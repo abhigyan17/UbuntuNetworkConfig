@@ -2,7 +2,7 @@
 Script use to change network configuration in ubuntu
 
 
-Screenshots below shocasing the steps to use this script
+Screenshots below showcasing the steps to use this scripts
 Please note its only for the Ubunutu servers. 
 
 ![alt text](image.png)
